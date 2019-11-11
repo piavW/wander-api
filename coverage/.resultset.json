@@ -1,27 +1,22 @@
 {
   "RSpec": {
     "coverage": {
-      "/home/alex/Projects/week_10/wander-api/app/helpers/application_helper.rb": [
+      "/Users/piavonwachenfelt/bootcamp/WanderFinalProject/wander-api/app/helpers/application_helper.rb": [
         1,
         null
       ],
-      "/home/alex/Projects/week_10/wander-api/app/controllers/application_controller.rb": [
-        0,
-        0
-      ],
-      "/home/alex/Projects/week_10/wander-api/app/channels/application_cable/connection.rb": [
+      "/Users/piavonwachenfelt/bootcamp/WanderFinalProject/wander-api/app/mailers/application_mailer.rb": [
         0,
         0,
         0,
         0
       ],
-      "/home/alex/Projects/week_10/wander-api/app/channels/application_cable/channel.rb": [
-        0,
+      "/Users/piavonwachenfelt/bootcamp/WanderFinalProject/wander-api/app/models/application_record.rb": [
         0,
         0,
         0
       ],
-      "/home/alex/Projects/week_10/wander-api/app/jobs/application_job.rb": [
+      "/Users/piavonwachenfelt/bootcamp/WanderFinalProject/wander-api/app/jobs/application_job.rb": [
         0,
         null,
         null,
@@ -30,18 +25,28 @@
         null,
         0
       ],
-      "/home/alex/Projects/week_10/wander-api/app/mailers/application_mailer.rb": [
+      "/Users/piavonwachenfelt/bootcamp/WanderFinalProject/wander-api/app/controllers/v1/trails_controller.rb": [
+        0,
+        null,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        null,
+        0,
+        null,
         0,
         0,
         0,
         0
       ],
-      "/home/alex/Projects/week_10/wander-api/app/models/application_record.rb": [
-        0,
+      "/Users/piavonwachenfelt/bootcamp/WanderFinalProject/wander-api/app/controllers/application_controller.rb": [
         0,
         0
       ],
-      "/home/alex/Projects/week_10/wander-api/app/services/trail_api_consumption.rb": [
+      "/Users/piavonwachenfelt/bootcamp/WanderFinalProject/wander-api/app/services/trail_api_consumption.rb": [
         0,
         0,
         null,
@@ -64,39 +69,31 @@
         0,
         0,
         0,
-        null,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
         0,
         0,
         0,
         0,
         null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
         null,
         null,
         null,
@@ -105,8 +102,20 @@
         null,
         null,
         null
+      ],
+      "/Users/piavonwachenfelt/bootcamp/WanderFinalProject/wander-api/app/channels/application_cable/connection.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/piavonwachenfelt/bootcamp/WanderFinalProject/wander-api/app/channels/application_cable/channel.rb": [
+        0,
+        0,
+        0,
+        0
       ]
     },
-    "timestamp": 1573478976
+    "timestamp": 1573495925
   }
 }
