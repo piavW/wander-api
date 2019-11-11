@@ -1,7 +1,7 @@
 RSpec.describe 'Consume API' do 
-	Before do
+	# Before do
 		
-	end
+	# end
 
 	describe 'API gives data' do 
 		it 'gives a string of trails' do
