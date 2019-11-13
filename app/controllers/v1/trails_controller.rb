@@ -4,7 +4,7 @@ class V1::TrailsController < ApplicationController
     if trails.empty?
       render_error_message('No trails here, turn around.', 400)
     else
-      render json: trails, each_serializer: TrailsSerializer
+      render json: trails, each_serializer: Trails::IndexSerializer
     end
   end
 
@@ -28,7 +28,7 @@ class V1::TrailsController < ApplicationController
   def show
     if Trail.exists?(id: params[:id])
       trail = Trail.find(params[:id])
-      render json: trail, serializer: TrailsSerializer
+      render json: trail, serializer: Trails::IndexSerializer
     else
       render_error_message('There is no trail here go back.', 400 )
   end

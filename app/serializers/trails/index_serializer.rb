@@ -1,4 +1,4 @@
-class TrailsSerializer < ActiveModel::Serializer
+class Trails::IndexSerializer < ActiveModel::Serializer
   include Rails.application.routes.url_helpers
   attributes :id, :title, :description, :intensity, :duration, :location, :extra, :image
 
